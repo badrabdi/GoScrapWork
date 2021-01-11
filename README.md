@@ -1,2 +1,2 @@
 # GoScrapWork
-My GoLang scrapwork
+My GoLang scrapwork TDD and Go
